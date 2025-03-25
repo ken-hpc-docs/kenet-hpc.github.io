@@ -6,6 +6,12 @@
 KENET GPU CLUSTER DOCS documentation
 ====================================
 
+User documentation for the KENET GPU Cluster. These instructions will help you get started with
+the following ideas:
+ - Slurm jobs
+ - SSH Access
+ - User Modules
+
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
